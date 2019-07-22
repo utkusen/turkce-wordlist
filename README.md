@@ -1,4 +1,4 @@
-Rockyou wordlistindeki Türkçe kelime içeren parolalar listelenmiştir. İlgili blog yazısı:
+Rockyou wordlistindeki Türkçe kelime içeren parolalar listelenmiştir. İlgili blog yazısı: [https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html](https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html)
 
 wordlist.txt formatı: `Türkçe Kelime (Boşluk) Bulunduğu Parola`
 
