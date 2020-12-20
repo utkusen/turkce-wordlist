@@ -32,6 +32,8 @@ Gönüllü desteklerinden ötürü teşekkür ederim:
 
 - Murat Öztürk
 
+- Doğukan Uçak [https://github.com/doggukan](https://github.com/doggukan)
+
 
 ## Analiz Edilen Veriler
 
