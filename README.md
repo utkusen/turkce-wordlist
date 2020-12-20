@@ -95,3 +95,5 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 126267      | Trendyoll-MailPass.txt       |
 | 6423955      | usermailpas.txt       |
 | 1229105      | combo.txt       |
+| 27663208      | cilgintavuklar.html       |
+| 473014      | eniyitahmincom-dump.html       |
