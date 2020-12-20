@@ -26,7 +26,7 @@ Katkıda bulunmak için `CONTRIBUTING.md` dosyasına göz atabilirsiniz.
 
 Gönüllü desteklerinden ötürü teşekkür ederim:
 
-- Ahmet Külekçi - [https://twitter.com/ahmetskulekc](https://twitter.com/ahmetskulekci)
+- Ahmet Külekçi - [https://twitter.com/ahmetskulekci](https://twitter.com/ahmetskulekci)
 
 - Rauf Giray Doğan - [https://twitter.com/redhchilihacker](https://twitter.com/redhchilihacker)
 
