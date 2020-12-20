@@ -92,3 +92,4 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 254846337      | 7M.txt       |
 | 126267      | Trendyoll-MailPass.txt       |
 | 6423955      | usermailpas.txt       |
+| 1229105      | combo.txt       |
