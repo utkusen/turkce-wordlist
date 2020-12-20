@@ -6,6 +6,8 @@ Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çal�
 
 [https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html](https://utkusen.com/blog/rockyou-wordlistindeki-turkce-parolalarin-tespiti.html)
 
+[https://utkusen.com/blog/turkce-wordlist-calismasinda-ikinci-faz.html](https://utkusen.com/blog/turkce-wordlist-calismasinda-ikinci-faz.html)
+
 Katkıda bulunmak için `CONTRIBUTING.md` dosyasına göz atabilirsiniz.
 
 ### Dosyalar
