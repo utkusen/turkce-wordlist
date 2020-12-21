@@ -10,4 +10,4 @@ with open("corpus.txt") as corpus:
 with open("PAROLA_VERISI.txt") as wordlist:
     for no, line in enumerate(wordlist):
         for end_ind, found in auto.iter(line ):
-            print(found,line)
+            print(line.replace("\n",""))
