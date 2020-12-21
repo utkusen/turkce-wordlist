@@ -39,6 +39,7 @@ Gönüllü desteklerinden ötürü teşekkür ederim:
 
 | Boyut(byte)      | Dosya İsmi |
 | ----------- | ----------- |
+| 14979516081      | hashes.org found lists(2012-2020)       |
 | 60498886      | rockyou.txt       |
 | 32012600   | 1 million PORN COMBO.txt        |
 | 34610158      | 1,08M.txt       |
