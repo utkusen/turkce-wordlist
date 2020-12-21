@@ -22,7 +22,6 @@ uluslararasi
 mucadele
 degisik
 arastir
-politika
 gorusme
 ekonomik
 yabanci
@@ -360,7 +359,6 @@ antrenor
 talimat
 bahceli
 geleneksel
-politik
 belgesel
 avustralya
 kanitla
@@ -953,7 +951,6 @@ vaziyet
 sinirsiz
 kiralik
 entelektuel
-maksimum
 kolaylikla
 konusmaci
 endiselen
@@ -1014,7 +1011,6 @@ kahkaha
 muessese
 kokteyl
 arcelik
-venedik
 mazeret
 elektron
 manevra
@@ -1461,7 +1457,6 @@ diktatorluk
 bariscil
 saliver
 medrese
-katalog
 turuncu
 bayrampasa
 kahvehane
@@ -2179,8 +2174,6 @@ siirsel
 tasinabilir
 emlakbank
 kabartma
-popescu
-barrichello
 milyarder
 kizilhac
 ataturkculuk
@@ -2306,7 +2299,6 @@ kisitlayici
 alptekin
 taskinlik
 romatizma
-astronomi
 iftihar
 kestane
 muktedir
@@ -3103,7 +3095,6 @@ patinaj
 islerlik
 hidroelektrik
 nazarbayev
-nikolay
 yurdakul
 monarsi
 pirelli
@@ -3607,7 +3598,6 @@ vahdettin
 guvercinler
 maceraci
 yesillen
-astrolog
 paskalya
 boburlen
 basmakale
@@ -4186,12 +4176,10 @@ kandira
 asistlik
 dinamitle
 ihtiyari
-astigmat
 okuryazar
 korteks
 cigirtkanlik
 karakterize
-slobodan
 kumanya
 esitsiz
 aristokrasi
@@ -4486,7 +4474,6 @@ hariciye
 baloncuk
 kadirga
 taassup
-asparagas
 kaldirac
 satafatli
 tutacak
@@ -4964,7 +4951,6 @@ prenslik
 tepkisizlik
 mutemet
 ukraynali
-majeste
 bireycilik
 istifle
 ezbercilik
@@ -5486,7 +5472,6 @@ saritas
 bencilce
 saglamer
 iktisaden
-mandira
 seytanca
 levanten
 alakurt
@@ -8253,9 +8238,7 @@ sersefil
 kulbasti
 tarikatcilik
 aksamleyin
-ikonografi
 golcuklu
-maksimal
 cilehane
 tanimamazlik
 maltali
@@ -9678,8 +9661,6 @@ dershanecilik
 dublorluk
 kohnelik
 mutehassis
-zootekni
-grafoloji
 cuntacilik
 bademci
 abdulhakim
@@ -10446,7 +10427,6 @@ ayakucu
 perdahla
 istihdaf
 kulhanbeylik
-zebercet
 bagdastirici
 kanunuevvel
 tazyikli
@@ -12410,7 +12390,6 @@ nasihatci
 hesapcilik
 muhtedi
 yucebilgic
-makarena
 kapanci
 yetisim
 dekovil
