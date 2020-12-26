@@ -82,7 +82,8 @@ Gönüllü desteklerinden ötürü teşekkür ederim:
 | 16074200      | Spooky_MIXED_000001.txt       |
 | 364328409      | wattpad-emailpass.txt       |
 | 1117383516      | Zynga_35.3m_mail_pass.txt      |
-
+| 2651848         | Cit0day.in_special_for_xss.is |
+| 29128740        | Dehashed Database collection  240+ databases |
 ## Doğrudan Dahil Edilen Veriler
 
 Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizlenip doğrudan wordlist'in içine dahil edilmiştir
