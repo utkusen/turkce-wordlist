@@ -28,8 +28,6 @@ Gönüllü desteklerinden ötürü teşekkür ederim:
 
 - Ahmet Külekçi - [https://twitter.com/ahmetskulekci](https://twitter.com/ahmetskulekci)
 
-- Rauf Giray Doğan - [https://twitter.com/redhchilihacker](https://twitter.com/redhchilihacker)
-
 - Murat Öztürk
 
 - Doğukan Uçak [https://github.com/doggukan](https://github.com/doggukan)
