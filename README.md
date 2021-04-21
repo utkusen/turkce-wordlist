@@ -99,3 +99,9 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 1229105      | combo.txt       |
 | 27663208      | cilgintavuklar.html       |
 | 473014      | eniyitahmincom-dump.html       |
+
+# Yapılan Araştırmalar
+
+Aşağıdaki araştırmalar Türkçe wordlist projesinden faydalanılarak yapılmıştır.
+
+- Türkiye taraftar sayısı analizi [https://github.com/utkusen/turkce-wordlist/blob/master/analizler/taraftar.md](https://github.com/utkusen/turkce-wordlist/blob/master/analizler/taraftar.md)
