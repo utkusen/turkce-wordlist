@@ -1,3 +1,5 @@
+# Bu proje; e-posta adresi, isim, telefon benzeri herhangi bir kişisel veri içermemektedir. Parolalar sadece akademik amaçlarla listelenmektedir. Parolaların gerçek kişilerle ilişkilendirilmesi mümkün değildir.
+
 ## Türkçe Wordlist 
 
 Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır. İnternete sızan e-posta ve parola verilerinin içindeki Türkçe kelimelerin tespit edilmesi metodu ile gerçekleştirilmiştir.
