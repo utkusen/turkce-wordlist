@@ -85,7 +85,7 @@ Gönüllü desteklerinden ötürü teşekkür ederim:
 
 ## Doğrudan Dahil Edilen Veriler
 
-Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizlenip doğrudan wordlist'in içine dahil edilmiştir
+Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizlenip/kırılıp doğrudan wordlist'in içine dahil edilmiştir
 
 | Boyut(byte)      | Dosya İsmi |
 | ----------- | ----------- |
@@ -98,7 +98,8 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 6423955      | usermailpas.txt       |
 | 1229105      | combo.txt       |
 | 27663208      | cilgintavuklar.html       |
-| 473014      | eniyitahmincom-dump.html       |
+| 25544390      | tofisa-uyeler.csv       |
+| 5816146      | sochic-uyeler.csv       |
 
 # Yapılan Araştırmalar
 
