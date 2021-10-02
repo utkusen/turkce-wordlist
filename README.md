@@ -20,6 +20,8 @@ Katkıda bulunmak için `CONTRIBUTING.md` dosyasına göz atabilirsiniz.
 
 - İçinde Türkçe kelime barındıran e-posta adreslerinin kullandığı parolalar. (Örneğin: `haznedarli92@gmail.com - 38409282`)
 
+Çakışmaların önlenmesi için tüm parolalar küçük harfler ile kaydedilmiştir. Hash kırma saldırılarında Hashcat kuralları kullanılarak çeşitlenme yapılması tavsiye edilir.
+
 **count.txt** En çok kullanılan parolaların listelendiği bir istatistik verisidr.
 
 **corpus.txt** Türkçe kelime derlemidir. Sızan veriler içerisinde burada yer alan kelimeler aranmıştır.
@@ -100,6 +102,7 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 27663208      | cilgintavuklar.html       |
 | 25544390      | tofisa-uyeler.csv       |
 | 5816146      | sochic-uyeler.csv       |
+| ?      | gezginler.com.sql       |
 
 # Yapılan Araştırmalar
 
