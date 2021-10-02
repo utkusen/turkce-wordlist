@@ -102,7 +102,7 @@ Aşağıdaki veriler Türkiye kaynaklı platformlardan sızdığı için temizle
 | 27663208      | cilgintavuklar.html       |
 | 25544390      | tofisa-uyeler.csv       |
 | 5816146      | sochic-uyeler.csv       |
-| ?      | gezginler.com.sql       |
+| 106192828      | gezginler.com.sql       |
 
 # Yapılan Araştırmalar
 
